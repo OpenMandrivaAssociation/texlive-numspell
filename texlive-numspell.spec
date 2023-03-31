@@ -1,6 +1,6 @@
 Name:		texlive-numspell
 Version:	61132
-Release:	1
+Release:	2
 Summary:	Spelling cardinal and ordinal numbers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/numspell
